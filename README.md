@@ -5,9 +5,6 @@
   </kbd>
   
   <h2 align="center">Lite Supplies - Leaking boost bot!</h2>
-
-    CREDIT:
-    idea from Otex ~ discord.gg/otex
   <p align="center">
     This is a very good discord boost bot. If we get 50stars(⭐) on this i will leak them theyre probably leaked somewhere else but i havent found another server that leaked it.
     <a href="https://t.me/notadmir">🌌 Telegram</a>
